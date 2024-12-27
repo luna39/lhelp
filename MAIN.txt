@@ -1,0 +1,101 @@
+flowerojkeee:147258369:viteok1974@mail.ru
+makkenssi 18041990 trigubchuk.mirad@gmail.com
+vludin:071293:vludin@rambler.ru
+
+
+хунт Juddah nightwish11
+
+taxist7:fg4ind7k:tumenevserg1@pochta.ru        прист 2       дц 4к  портняга наложка(420)
+log1n32:32913684:mindburst32@mail.ru                         ОРДА маг 
+eltbart:petrovish:bart2108@mail.ru                           ОРДА маг дру
+darmol0147:0147896325:darmollive@gmai.com                    ОРДА вар
+vaset95:dfcz1945:mr.gsy@mail.ru                              хуесос
+kyoupaka1:110597:kdasidjk@mail.ru                            фури 4.4к нихуя нет
+vartisvart:v1a2r3t4a5n6:vartisvart@gmail.com                 инвиз рога 2к)
+hirurg12:7uxz09r:hirurg12-ilya@inbox.ru                      ппал 4к
+juddah:nightwish11:iezoshenko@yandex.ru                      мм пвп 4.8к
+lariuss:bnnbvnn:robot@wowcircle.com                          ОРДА дру
+x22newfanx22:d123qwe08:barakus2009@gmail.com                 		фури 		3.7к горка кузнечка(442)
+darkevilsky:1593578246a:makcimov_1999@mail.ru                		анхоли дк 	2к 
+xa46ak:6ybh4r:robot@wowcircle.com                            ОРДА бонусы  
+1234567891998:den_123:alex.popov.98@mail.ru                  ОРДА 	дц 		5к
+mailzikk:hfdifyfvf:samkevich_pavel@mail.ru                   		фрост 		1.7к
+budaraga1206:qwefghuio:bbudoraga@mail.ru                     		аркан		4.9к
+panda731:160992:panda731panda@gmail.com                      		протовар
+kalmanto:komamura:robot@wowcircle.com                        ОРДА	анхоли		2.7к
+moondragon2:30061988:robot@wowcircle.com                     ОРДА	бдк 		3.7к
+diman2887:jegedajeg:dmitruup@gmail.com                       ОРДА	ппал 		4.1к фрост 5к шкуры ебаные
+time2b:gothic2:technomonster@ukr.net                         ОРДА	мути 		4.5к алхимия
+mrzorg1488:postal123:yur2389@yandex.ru                       ОРДА	фрост 		1.9к 
+
+/script local function buy (n,q) for i=1,100 do if n==GetMerchantItemInfo(i) then BuyMerchantItem(i,q) end end end buy ("Эмблема завоевания",20); buy ("Эмблема доблести",20); buy ("Эмблема героизма",20);
+
+/console cameradistancemaxfactor 4
+
+52
+
+anie19957:27121995:anna19957@tut.by                                  ОРДА фмаг 2.4к
+sk1tl3:ghbdtn33q:skitlz.m@mail.ru                                         рпал 3.6к алхимия
+pogo112:qwezcx:pog.o@mail.ru,cluebar@mail.ru                              рпал 2.8к наложка(455) портягя(441)
+tourervv:322003:sta.228@mail.ru                                           рпал 2.3к 
+bred1979:zasada79:bred197972@gmail.com                                    шп   2.2к 
+                           						  миша 2.6к кожа снятие
+								     ОРДА инви 2.5к 
+tottip:gfhjkm2:tactic1@ukr.net,taturin7@mail.ru                      ОРДА миша 5.5к начерт наложка
+lol24:986233:robot@wowcircle.com,coll@mail.ru,f17ball@gmail.com      ОРДА рпал 3.7к горка кузнечка 
+777marader777:3240208:butsa.me@bk.ru                                 ОРДА мути 4.2к горка инжирка
+piromidon1212:maestro72:piromidon2015@yandex.ru                      ОРДА бм   1.6к 
+rider12345:258456258456:vasin32@yandex.ru                            ОРДА инви 3.6к  
+skazikk:766238:skazikk@mail.ru                                       ОРДА рпал 1.9к 
+smorid:291387:robot@wowcircle.com                                    х100
+shamrain:gandon123:shamrain@live.ru,andr.prosckurin2015@yandex.ru         элем 2.9к
+rus94:gfdkjd94:sanyaomg@yandex.ru                                         сова 3.1к травка начертанка
+leonmix:vedmak2011:keine7@i.ua                                            пвар 4.0к 
+									  бдк  3.9к юва(445)
+									  фмаг 3.7к травка начертанка(397)
+favellen:554822:favellen@yandex.ru                                   ОРДА фмаг 3.4к 
+lokki995:01199528:lokki995@mail.ru                                   	  фмаг 2.2к портняга(449)
+drabouchek:bybyby:robot@wowcircle.com                                ОРДА локр 1.9к 
+nivara08:platform08:nivara92@gmail.com               павпвапва            бдк  4.5к 
+allexxika:89168114817:allexxika@yandex.ru                яспе рмо глот
+fedyai87:28121987:kinggenri@gmail.com               ворон взломали        миша 4.4к горка травка
+hashe:111q:wildcircle@yandex.ru,max12792512@gmail.com                ОРДА авар 5.8к кожа снятие
+proseenet:19921993:robot@wowcircle.com                               ОРАД фмаг 4.4к наложка(433) портняга(445)
+remiczko1:creative12:remiczko4@gmail.com                                  шп   3.1к
+								     ОРДА фдк  4.4к 
+maxrodin:790750:robot@wowcircle.com                                       сова 3.2к 
+lolobito:123456s:smashko57@mail.ru                                   х100
+nikeo:1742875:bossua@mail.ru,freenikeo@gmail.com,nikeo21@mail.ru     х100
+diman33777:admin22:sergei.info@bk.ru                                 х100
+sallex1337:123nikita:cskill@mail.ru                                  ОРДА шп   5.4к горка наложка
+toi90:20161013:toi90@ya.ru                                           ОРДА адк  4.3к горка
+kotenok9:zsd28ik:a.kanareikin@yandex.ru                              ОРДА шп   4.7к портняга наложка
+papa_k:8675309:phil_k@e-mail.ru                                      х100
+circlerogue:wbhrekm:shuka_n_off@mail.ru                              х100
+pelikan999:221189:pashapetrov1@mail.ru                               х100
+lirimor:datatraveler:dorn4321@mail.ru              авыаыв                 мути 4.5к горка(410) инжирка(400)
+								   	  фдк  2.3к
+zov63:87654321:olegz163@mail.ru                                      ОРДА мм   4.2к горка инжирка
+hepar:lien:arsenwen@mail.ru,harifullyn@gmail.com           перелив   ОРДА рпал 5.1к горка юва     
+								          фмаг 4.1к горка портняга(447)
+fuxik:eurotrip2:vital9-10@mail.ru                                    ОРДА адк  4.8к горка(441) кузнечка(377)
+snofe:z45784578:robot@wowcircle.com                                       пвар 3.1к 
+pamuti67:112233qq:hardis67@inbox.lv                                  ОРДА сова 4.5к
+skam666:postal2:crisiscb@yandex.ru                                   ОРДА хпал 4.6к начертанка травка(225)
+								     ОРДА фдк  5.4к горка кузнечка 
+jaroo:4652137982:robot@wowcircle.com,jaroomale@yandex.ru             ОРДА мути 2.7к 
+apectyxa:metalugamkb:fadey572@mail.ru                                ОРДА шп   5.2к портняга
+qwertyr:7777777:,trusov_98@mail.ua,gdgdfgdfg@gmail.com               х100
+2205127:2205127:sssidr@gmail.com                                     х100
+katalya123:alex123:destroyerq@mail.ru                                ОРДА фдк  4.5к кожа(448) портняга(425)
+gerda316:16west16:dvoeglazov.1997@mail.ru                                 миша 2.2к 
+dimamonah:monah555:monah3094@gmail.com                               ОРДА арка 5.2к портняга(422)
+holyknight95:2944188:lakov-andr.1@mail.ru                           	  авар 3.7к горка
+rbhfrfhbyfrfpfym:yfnfkb248301:waltariman@yandex.ru                   ОРДА рпал 1.8к
+vincent1986:01011986:vinsent1986@yandex.ru                           ОРДА демн 3.0к портняга(448)
+fun123:linkin:robot@wowcircle.com,roma_safa123@mail.ru                    ршам 4.9к горка юва            моё
+opportune:ancestry:krasnyj@sbor.net                                  ОРДА инвз 2.7к горка инжирка(400)
+
+
+
+
